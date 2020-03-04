@@ -10,7 +10,7 @@
 
 [![](https://img.shields.io/badge/pdf-offline-red)](docs/XSS_classification_model-Alexandre_ZANNI.pdf)
 [![](https://img.shields.io/badge/html-online-green)](https://noraj.github.io/XSS-classification-model-slideshow/)
-[![](https://img.shields.io/badge/markdown-source-blue)](prez.md)
+[![](https://img.shields.io/badge/markdown-source-blue)](docs/prez.md)
 
 **Presentation**:
 
