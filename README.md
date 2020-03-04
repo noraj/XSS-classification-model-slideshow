@@ -2,7 +2,7 @@
 
 > Types of XSS evolution
 
-![](img/wordcloud.png)
+![](docs/img/wordcloud.png)
 
 **Note**: This is only the sources of the slideshow.
 
